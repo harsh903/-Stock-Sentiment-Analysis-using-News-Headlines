@@ -1,0 +1,2 @@
+# -Stock-Sentiment-Analysis-using-News-Headlines
+Using Natural Language Processing(NLP), I created a model that actually analyses stock prices using news headlines. There are various kinds of news articles, and based on those, the stock price fluctuates.Analysed the news headline using sentiment analysis using NLP and then predicted whether the stock would increase or decrease. This project helps finance professionals to understand and make better decisions
